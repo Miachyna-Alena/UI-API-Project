@@ -1,0 +1,25 @@
+{
+  "BASE_URL": "localhost:8080/web",
+  "BASE_PATH": "http://localhost:8080/api/%s",
+  "GET_TOKEN_PATH": "token/get",
+  "GET_TESTS_PATH": "test/get/json",
+  "ADD_TEST_PATH": "test/put",
+  "SENT_LOG_PATH": "test/put/log",
+  "SENT_ATTACHMENT_PATH": "test/put/attachment",
+
+  "START_TIME_COLUMN_INDEX": "4",
+  "TEST_NAME_COLUMN_INDEX": "1",
+
+  "VARIANT": "variant",
+  "PROJECT_ID": "projectId",
+  "SID": "SID",
+  "PROJECT_NAME": "projectName",
+  "TEST_NAME": "testName",
+  "METHOD_NAME": "methodName",
+  "ENV": "env",
+  "START_TIME": "startTime",
+  "BROWSER": "browser",
+  "TEST_ID": "testId",
+  "CONTENT": "content",
+  "CONTENT_TYPE": "contentType"
+}

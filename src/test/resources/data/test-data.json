@@ -1,0 +1,15 @@
+{
+  "VARIANT": "2",
+  "FORMAT_TYPE": "json",
+
+  "PROJECT_NAME_LENGTH": "7",
+  "LOG_CONTENT_LENGTH": "15",
+
+  "ENV" : "DESKTOP",
+  "BROWSER" : "chrome",
+  "TEST_NAME" : "Test",
+  "METHOD_NAME" : "Method",
+  "CONTENT_TYPE" : "image",
+
+  "PROJECT_NAME": "Nexage"
+}
